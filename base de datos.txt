@@ -1,0 +1,36 @@
+CREATE DATABASE Student_Procedures;
+
+GO
+
+USE Student_Procedures;
+
+CREATE TABLE Student (
+StudentId INT PRIMARY KEY,
+Name NVARCHAR(50) NOT NULL,
+Lastname NVARCHAR(50) NOT NULL,
+Address NVARCHAR(100) NOT NULL,
+licensecode NVARCHAR(50) NOT NULL,
+phonenumber FLOAT NOT NULL,
+
+);
+
+GO
+
+CREATE TABLE Paymenthistories (
+paymentId INT PRIMARY KEY,
+StudentId INT,
+paymentdeadline DATE NOT NULL,
+paymentamount DECIMAL(18, 2) NOT NULL,
+FOREIGN KEY (StudentId) REFERENCES Student(StudentId)
+);
+
+GO
+
+CREATE TABLE Requests (
+RequestsId INT PRIMARY KEY NOT NULL,
+StudentId INT,
+Requestdate DATE NOT NULL, 
+Requeststatus NVARCHAR(50) NOT NULL, 
+FOREIGN KEY (StudentId) REFERENCES Student(StudentId),
+);
+GO
