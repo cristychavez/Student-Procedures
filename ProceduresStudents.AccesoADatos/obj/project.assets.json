@@ -30,34 +30,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cristy Chavez\\.nuget\\packages\\": {}
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRACTICA_PROFESIONAL\\ProceduresStudents\\ProceduresStudents.AccesoADatos\\ProceduresStudents.AccesoADatos.csproj",
+      "projectUniqueName": "C:\\Users\\MINEDUCYT\\Desktop\\ProceduresStudents\\ProceduresStudents\\ProceduresStudents.AccesoADatos\\ProceduresStudents.AccesoADatos.csproj",
       "projectName": "ProceduresStudents.AccesoADatos",
-      "projectPath": "D:\\PRACTICA_PROFESIONAL\\ProceduresStudents\\ProceduresStudents.AccesoADatos\\ProceduresStudents.AccesoADatos.csproj",
-      "packagesPath": "C:\\Users\\Cristy Chavez\\.nuget\\packages\\",
-      "outputPath": "D:\\PRACTICA_PROFESIONAL\\ProceduresStudents\\ProceduresStudents.AccesoADatos\\obj\\",
+      "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\ProceduresStudents\\ProceduresStudents\\ProceduresStudents.AccesoADatos\\ProceduresStudents.AccesoADatos.csproj",
+      "packagesPath": "C:\\Users\\MINEDUCYT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MINEDUCYT\\Desktop\\ProceduresStudents\\ProceduresStudents\\ProceduresStudents.AccesoADatos\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Cristy Chavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\MINEDUCYT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\PRACTICA_PROFESIONAL\\ProceduresStudents\\ProceduresStudents.EntidadesDeNegocio\\ProceduresStudents.EntidadesDeNegocio.csproj": {
-              "projectPath": "D:\\PRACTICA_PROFESIONAL\\ProceduresStudents\\ProceduresStudents.EntidadesDeNegocio\\ProceduresStudents.EntidadesDeNegocio.csproj"
+            "C:\\Users\\MINEDUCYT\\Desktop\\ProceduresStudents\\ProceduresStudents\\ProceduresStudents.EntidadesDeNegocio\\ProceduresStudents.EntidadesDeNegocio.csproj": {
+              "projectPath": "C:\\Users\\MINEDUCYT\\Desktop\\ProceduresStudents\\ProceduresStudents\\ProceduresStudents.EntidadesDeNegocio\\ProceduresStudents.EntidadesDeNegocio.csproj"
             }
           }
         }
@@ -90,7 +94,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

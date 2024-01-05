@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProceduresStudents.LogicaDeNegocio/1.0.0": {
+        "dependencies": {
+          "ProceduresStudents.AccesoADatos": "1.0.0",
+          "ProceduresStudents.EntidadesDeNegocio": "1.0.0"
+        },
+        "runtime": {
+          "ProceduresStudents.LogicaDeNegocio.dll": {}
+        }
+      },
+      "ProceduresStudents.AccesoADatos/1.0.0": {
+        "dependencies": {
+          "ProceduresStudents.EntidadesDeNegocio": "1.0.0"
+        },
+        "runtime": {
+          "ProceduresStudents.AccesoADatos.dll": {}
+        }
+      },
+      "ProceduresStudents.EntidadesDeNegocio/1.0.0": {
+        "runtime": {
+          "ProceduresStudents.EntidadesDeNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProceduresStudents.LogicaDeNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProceduresStudents.AccesoADatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProceduresStudents.EntidadesDeNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

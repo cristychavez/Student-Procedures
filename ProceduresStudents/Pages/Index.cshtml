@@ -5,6 +5,18 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <!-- Imagen -->
+    <img src="https://th.bing.com/th/id/R.fdc4b7d2dcc2c9c16b65b3e0005a0473?rik=ByVY0k2QMcRVdA&riu=http%3a%2f%2fwww.esfe.agape.edu.sv%2fimg%2flogos%2fesfe.png&ehk=5Gg3iBXqDlTLA%2fP%2b7usGSkO1jIsiMsKav%2bDmWx4vFaw%3d&risl=&pid=ImgRaw&r=0" alt="Descripción de la imagen" class="img-fluid" />
+
+    <h1 class="display-4">Search Student</h1>
+
+    <!-- Botón -->
+    <button type="button" onclick="redirectToNewPage()" class="btn btn-primary">Search</button>
 </div>
+
+<script>
+    function redirectToNewPage() {
+        // Cambia la URL a la que quieres redirigir
+        window.location.href = 'https://localhost:7186/'; // Reemplaza 'tu-pagina-de-destino' con la URL real
+    }
+</script>

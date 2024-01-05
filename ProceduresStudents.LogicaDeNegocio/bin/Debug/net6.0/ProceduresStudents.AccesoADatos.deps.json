@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProceduresStudents.AccesoADatos/1.0.0": {
+        "dependencies": {
+          "ProceduresStudents.EntidadesDeNegocio": "1.0.0"
+        },
+        "runtime": {
+          "ProceduresStudents.AccesoADatos.dll": {}
+        }
+      },
+      "ProceduresStudents.EntidadesDeNegocio/1.0.0": {
+        "runtime": {
+          "ProceduresStudents.EntidadesDeNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProceduresStudents.AccesoADatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProceduresStudents.EntidadesDeNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

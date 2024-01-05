@@ -4,7 +4,105 @@
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Requested Procedures</title>
+    <style>
+        /* Estilos CSS aquí */
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            display: flow;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: left;
+            max-width: 700px; /* Ajusta el ancho según sea necesario */
+            margin: 0 auto; /* Centrar en la pantalla */
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+
+        label {
+            display: block;
+            margin-bottom: 20px;
+        }
+
+        input[type="checkbox"] {
+            margin-right: 5px;
+        }
+
+        button {
+            padding: 12px 10px; /* Reduje el padding horizontal para hacer el botón más corto */
+            background-color: #00537c;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s, transform 0.2s;
+            border-radius: 4px;
+        }
+
+        h2 {
+            text-align: center;
+            grid-column: span 2; /* Ocupar ambas columnas */
+        }
+    </style>
+</head>
+<body>
+
+    <form>
+        <h2>Requested Procedures</h2>
+
+        <label>
+            <input type="checkbox" name="activeStudentCertificate"> Active Student Certificate
+        </label>
+
+        <label>
+            <input type="checkbox" name="certificateOfConduct"> Certificate of Conduct
+        </label>
+
+        <label>
+            <input type="checkbox" name="certificateOfGrades"> Certificate of Grades
+        </label>
+
+        <label>
+            <input type="checkbox" name="certificationOfNotes"> Certification of Notes
+        </label>
+
+        <label>
+            <input type="checkbox" name="certificateOfGraduate"> Certificate of Graduate
+        </label>
+
+        <label>
+            <input type="checkbox" name="requestProcedures"> Request Procedures
+        </label>
+
+        <button type="submit">To Request</button>
+    </form>
+
+    <!-- Nuevo botón de redirección -->
+    <button onclick="redirectToNewPage()">Go to Next Page</button>
+
+    <script>
+        function redirectToNewPage() {
+            // Cambia la URL a la que quieres redirigir
+            window.location.href = 'https://localhost:7198/'; // Cambia esto a tu URL
+        }
+    </script>
+
+</body>
+</html>

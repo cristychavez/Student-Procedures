@@ -1,0 +1,91 @@
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\appsettings.json
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.staticwebassets.runtime.json
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.exe
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.deps.json
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.runtimeconfig.json
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.dll
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.pdb
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.AssemblyInfoInputs.cache
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.AssemblyInfo.cs
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.csproj.CoreCompileInputs.cache
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.RazorAssemblyInfo.cache
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.RazorAssemblyInfo.cs
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.ProceduresStudents.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.build.ProceduresStudents.props
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProceduresStudents.props
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProceduresStudents.props
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\scopedcss\bundle\ProceduresStudents.styles.css
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\scopedcss\projectbundle\ProceduresStudents.bundle.scp.css
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.dll
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\refint\ProceduresStudents.dll
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.pdb
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.genruntimeconfig.cache
+C:\Users\Cristy Chavez\Desktop\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ref\ProceduresStudents.dll
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\appsettings.Development.json
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\appsettings.json
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.staticwebassets.runtime.json
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.exe
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.deps.json
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.runtimeconfig.json
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.dll
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.pdb
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.csproj.AssemblyReference.cache
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.AssemblyInfoInputs.cache
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.AssemblyInfo.cs
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.csproj.CoreCompileInputs.cache
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.MvcApplicationPartsAssemblyInfo.cache
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.RazorAssemblyInfo.cache
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.RazorAssemblyInfo.cs
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.ProceduresStudents.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.build.ProceduresStudents.props
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProceduresStudents.props
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProceduresStudents.props
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets.build.json
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets.development.json
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\scopedcss\bundle\ProceduresStudents.styles.css
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\scopedcss\projectbundle\ProceduresStudents.bundle.scp.css
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.dll
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\refint\ProceduresStudents.dll
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.pdb
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.genruntimeconfig.cache
+D:\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ref\ProceduresStudents.dll
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\appsettings.json
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.staticwebassets.runtime.json
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.exe
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.deps.json
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.dll
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\bin\Debug\net6.0\ProceduresStudents.pdb
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.RazorAssemblyInfo.cache
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.RazorAssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.ProceduresStudents.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.build.ProceduresStudents.props
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProceduresStudents.props
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProceduresStudents.props
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\scopedcss\bundle\ProceduresStudents.styles.css
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\scopedcss\projectbundle\ProceduresStudents.bundle.scp.css
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.dll
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\refint\ProceduresStudents.dll
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.pdb
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ProceduresStudents.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\ProceduresStudents\ProceduresStudents\ProceduresStudents\obj\Debug\net6.0\ref\ProceduresStudents.dll
